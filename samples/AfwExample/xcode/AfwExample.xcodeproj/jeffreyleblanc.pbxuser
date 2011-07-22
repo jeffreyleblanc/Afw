@@ -1,0 +1,224 @@
+// !$*UTF8*$!
+{
+	00BAE6590E7ED9C10018A608 /* AfwExampleApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {676, 1690}}";
+			sepNavSelRange = "{175, 0}";
+			sepNavVisRange = "{0, 818}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 84AB9AAA13DA058700DDC168 /* AfwExample */;
+		activeTarget = 8D1107260486CEB800E47090 /* AfwExample */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* AfwExample */,
+		);
+		codeSenseManager = 84AB9AB313DA059700DDC168 /* Code sense */;
+		executables = (
+			84AB9AAA13DA058700DDC168 /* AfwExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					498,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333056513;
+			PBXWorkspaceStateSaveDate = 333056513;
+		};
+		perUserProjectItems = {
+			84AB9C0913DA064600DDC168 = 84AB9C0913DA064600DDC168 /* PBXTextBookmark */;
+			84AB9C0A13DA064600DDC168 = 84AB9C0A13DA064600DDC168 /* PBXTextBookmark */;
+			84AB9C0B13DA064600DDC168 = 84AB9C0B13DA064600DDC168 /* PBXTextBookmark */;
+			84AB9C0C13DA064600DDC168 = 84AB9C0C13DA064600DDC168 /* PBXTextBookmark */;
+			84AB9C7B13DA07B000DDC168 = 84AB9C7B13DA07B000DDC168 /* PBXTextBookmark */;
+			84AB9C7C13DA07B000DDC168 = 84AB9C7C13DA07B000DDC168 /* PBXTextBookmark */;
+			84AB9C7D13DA07B000DDC168 = 84AB9C7D13DA07B000DDC168 /* PBXTextBookmark */;
+			84AB9C7E13DA07B000DDC168 = 84AB9C7E13DA07B000DDC168 /* PBXTextBookmark */;
+			84AB9C8913DA07BC00DDC168 = 84AB9C8913DA07BC00DDC168 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 84AB9AB213DA059700DDC168 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	84AB9AAA13DA058700DDC168 /* AfwExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AfwExample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	84AB9AAF13DA059700DDC168 /* Asystemroot.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {676, 519}}";
+			sepNavSelRange = "{174, 0}";
+			sepNavVisRange = "{0, 365}";
+		};
+	};
+	84AB9AB013DA059700DDC168 /* Asystemroot.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {676, 832}}";
+			sepNavSelRange = "{178, 0}";
+			sepNavVisRange = "{0, 968}";
+		};
+	};
+	84AB9AB213DA059700DDC168 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	84AB9AB313DA059700DDC168 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	84AB9B4313DA062500DDC168 /* Asystemroot.cpp */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = Asystemroot.cpp;
+		path = /Users/jeffreyleblanc/Documents/Code/cinder/cinder_master/blocks/Afw/samples/AfwExample/xcode/Asystemroot.cpp;
+		sourceTree = "<absolute>";
+	};
+	84AB9C0913DA064600DDC168 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* AfwExampleApp.cpp */;
+		name = "AfwExampleApp.cpp: 7";
+		rLen = 0;
+		rLoc = 129;
+		rType = 0;
+		vrLen = 818;
+		vrLoc = 0;
+	};
+	84AB9C0A13DA064600DDC168 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84AB9AAF13DA059700DDC168 /* Asystemroot.h */;
+		name = "Asystemroot.h: 10";
+		rLen = 0;
+		rLoc = 163;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	84AB9C0B13DA064600DDC168 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84AB9AB013DA059700DDC168 /* Asystemroot.cpp */;
+		name = "Asystemroot.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 177;
+		vrLoc = 0;
+	};
+	84AB9C0C13DA064600DDC168 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84AB9B4313DA062500DDC168 /* Asystemroot.cpp */;
+		name = "Asystemroot.cpp: 60";
+		rLen = 0;
+		rLoc = 1560;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 0;
+	};
+	84AB9C7B13DA07B000DDC168 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84AB9AAF13DA059700DDC168 /* Asystemroot.h */;
+		name = "Asystemroot.h: 11";
+		rLen = 0;
+		rLoc = 174;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	84AB9C7C13DA07B000DDC168 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84AB9AB013DA059700DDC168 /* Asystemroot.cpp */;
+		name = "Asystemroot.cpp: 11";
+		rLen = 0;
+		rLoc = 178;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 0;
+	};
+	84AB9C7D13DA07B000DDC168 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* AfwExampleApp.cpp */;
+		name = "AfwExampleApp.cpp: 7";
+		rLen = 0;
+		rLoc = 129;
+		rType = 0;
+		vrLen = 818;
+		vrLoc = 0;
+	};
+	84AB9C7E13DA07B000DDC168 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* AfwExampleApp.cpp */;
+		name = "AfwExampleApp.cpp: 9";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 784;
+		vrLoc = 0;
+	};
+	84AB9C8913DA07BC00DDC168 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* AfwExampleApp.cpp */;
+		name = "AfwExampleApp.cpp: 9";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 818;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* AfwExample */ = {
+		activeExec = 0;
+		executables = (
+			84AB9AAA13DA058700DDC168 /* AfwExample */,
+		);
+	};
+}
